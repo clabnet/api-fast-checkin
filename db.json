@@ -326,37 +326,37 @@
 
   "areas": [
     {
-      "areaId": 1,
+      "id": 1,
       "name": "A",
       "description": "Area A nord"
     },
     {
-      "areaId": 2,
+      "id": 2,
       "name": "B",
       "description": "Area B sud"
     },
     {
-      "areaId": 3,
+      "id": 3,
       "name": "C",
       "description": "Area C est"
     },
     {
-      "areaId": 4,
+      "id": 4,
       "name": "D",
       "description": "Area D sud-est"
     },
     {
-      "areaId": 5,
+      "id": 5,
       "name": "E",
       "description": "Area E est nord"
     },
     {
-      "areaId": 6,
+      "id": 6,
       "name": "F",
       "description": "Area F est"
     },
     {
-      "areaId": 7,
+      "id": 7,
       "name": "G",
       "description": "Area G est sud ovest"
     }
