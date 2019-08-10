@@ -290,8 +290,8 @@
         "email": "email@test.it",
         "password": "$2a$10$i2QBzr2xdVE1mj9BANGhHOQIyomd7tfpJ4aPD0kl1NyYmCCtB4X4W"
       },
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTYzNjEyNjY0LCJleHAiOjE1NjM2OTkwNjR9.2YNt3qseMZ-7OQC8zF8fLnb-104-gOxDYnYc2oYdz1c",
-      "expires_in": 86400
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTYzNjEyNjY0LCJleHAiOjE1NjM2OTkwNjR9.2YNt3qseMZ-7OQC8zF8fLnb-104-gOxDYnYc2oYdz1c",
+      "expiresIn": 86400
     }
   ],
 
@@ -300,13 +300,13 @@
       "id": 10,
       "name": "Gology",
       "image": "Reyna",
-      "image_url": "http://placehold.it/32x32"
+      "imageUrl": "http://placehold.it/32x32"
     },
     {
       "id": 2,
       "name": "Gloria",
       "image": "Guida",
-      "image_url": "http://placehold.it/64x64"
+      "imageUrl": "http://placehold.it/64x64"
     }
   ],
 
@@ -314,13 +314,13 @@
     {
       "id": 10,
       "partnerId": 0,
-      "name": "Michele",
-      "venue_code": 4,
-      "venue": "Allianz stadium",
-      "location": "Torino",
-      "start_date": "2019-08-06T08:05:02.389Z",
-      "end_date": "2019-08-06T08:05:02.389Z",
-      "is_active": true
+      "name": "Juve Inter",
+      "venueId": 4,
+      "venueName": "Allianz stadium",
+      "venueLocation": "Torino",
+      "startDate": "2019-08-06T08:05:02.389Z",
+      "endDate": "2019-08-06T08:05:02.389Z",
+      "isActive": true
     }
   ],
 
